@@ -162,3 +162,54 @@ table {
   color: white !important;
   border-color: var(--primary-color) !important;
 }
+
+/* Mobile hamburger menu button fix */
+.navbar-toggler {
+  border: 1px solid var(--border-medium) !important;
+  padding: 0.25rem 0.5rem !important;
+  border-radius: 4px !important;
+}
+
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.25) !important;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2833, 37, 41, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+  width: 1.25rem !important;
+  height: 1.25rem !important;
+}
+
+/* Mobile menu fixes */
+@media (max-width: 991.98px) {
+  .navbar-collapse {
+    background: white;
+    border: 1px solid var(--border-light);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-nav {
+    gap: 0.5rem;
+  }
+  
+  .navbar-nav .nav-item {
+    margin: 0;
+  }
+  
+  .navbar-nav .nav-link {
+    padding: 0.75rem 1rem !important;
+    border-radius: 6px !important;
+    margin: 0 !important;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    background: var(--bg-secondary) !important;
+  }
+  
+  .navbar-nav .nav-link[href="https://sustainability-lab.github.io/"] {
+    margin: 0.5rem 0 0 0 !important;
+  }
+}
