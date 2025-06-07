@@ -1,108 +1,107 @@
 ---
-title: "ACM India Summer School 2025: AI for Social Good"
+title: ""
 ---
 
-# ACM India Summer School 2025  
-**Hosted by IIT Gandhinagar, Gandhinagar**  
-📅 **02–13 June 2025**
+# ACM India Summer School 2025
+**AI for Social Good • 11-Day Intensive Program**  
+**Hosted by IIT Gandhinagar • June 2-13, 2025**
 
-## Overview
-The ACM Summer School on AI for Social Good at IIT Gandhinagar offers an **intensive 11-day program** on AI techniques applied to social good domains such as **healthcare, sustainability, and agriculture**.  
+**[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLScsgmXp-i_895k_J4hES6e0BoO9yq3heN8fOfhLSy6hZMDp9Q/viewform)** | **[View Schedule](schedule.qmd)**
 
-The school will feature **expert talks, hands-on tutorials, and panel discussions**, fostering both **technical expertise** and **interdisciplinary collaboration**.
+## Program Overview
+Join us for an **intensive 11-day program** exploring cutting-edge AI techniques applied to social good domains including **healthcare, sustainability, and agriculture**.
 
-## 🏛 Host Institution
+Our program combines **expert talks**, **hands-on tutorials**, and **interactive panel discussions** to foster both technical expertise and interdisciplinary collaboration.
+
+## Host Institution
 **IIT Gandhinagar**  
-📍 **Palaj, Gandhinagar, Gujarat, 382055**
+📍 Palaj, Gandhinagar, Gujarat, 382055
 
-## 🏫 Local & Academic Coordinators
-**Local Coordinator**  
-👤 **Nipun Batra**  
-📧 [nipun.batra@iitgn.ac.in](mailto:nipun.batra@iitgn.ac.in)  
+## Program Coordinators
 
-**Academic Coordinator**  
-👤 **Anirban Dasgupta**  
-📧 [anirbandg@iitgn.ac.in](mailto:anirbandg@iitgn.ac.in)  
+**Local Coordinator:** Dr. Nipun Batra  
+📧 [nipun.batra@iitgn.ac.in](mailto:nipun.batra@iitgn.ac.in)
 
-## 🎯 Topics Covered
+**Academic Coordinator:** Dr. Anirban Dasgupta  
+📧 [anirbandg@iitgn.ac.in](mailto:anirbandg@iitgn.ac.in)
 
-### **AI for Social Good Domains**
-- AI for Healthcare  
-- AI for Sustainability  
-- AI for Agriculture  
+## Topics Covered
 
-### **Technical Topics**
-- Object Detection  
-- Bandits and Reinforcement Learning  
-- Time Series Modeling  
-- Large Language Models (LLMs)  
-- Fairness & Explainability in AI  
-- Self-Supervised Learning  
-- Bayesian ML  
-- Graph Neural Networks  
-- Multimodal Learning  
+### AI for Social Good Domains
+- 🏥 AI for Healthcare
+- 🌱 AI for Sustainability  
+- 🌾 AI for Agriculture
+
+### Technical Topics
+- 🔍 Object Detection
+- 🎯 Bandits and Reinforcement Learning
+- 📈 Time Series Modeling
+- 🤖 Large Language Models (LLMs)
+- ⚖️ Fairness & Explainability in AI
+- 🔄 Self-Supervised Learning
+- 📊 Bayesian ML
+- 🌐 Graph Neural Networks
+- 🎭 Multimodal Learning
 
 ## Organizers
-- **Dr. Anirban Dasgupta**, IIT Gandhinagar (Professor) 
-- **Dr. Nipun Batra**, IIT Gandhinagar (Professor)  
-- **Ayush Shrivastava**, IIT Gandhinagar   
-- **Abhay Pisharodi**, IIT Gandhinagar  
-- **Diya Thakor**, IIT Gandhinagar  
-- **Ratnesh Pasi**, IIT Gandhinagar  
-- **Raviraj Sukhadiya**, IIT Gandhinagar  
-- **Rishabh Mondal**, IIT Gandhinagar 
-- **Suruchi Hardaha**, IIT Gandhinagar 
-- **Vinayak Rana**, IIT Gandhinagar  
+- **Dr. Anirban Dasgupta** - Professor, IIT Gandhinagar
+- **Dr. Nipun Batra** - Professor, IIT Gandhinagar  
+- **Ayush Shrivastava** - IIT Gandhinagar
+- **Abhay Pisharodi** - IIT Gandhinagar
+- **Diya Thakor** - IIT Gandhinagar  
+- **Ratnesh Pasi** - IIT Gandhinagar
+- **Raviraj Sukhadiya** - IIT Gandhinagar
+- **Rishabh Mondal** - IIT Gandhinagar
+- **Suruchi Hardaha** - IIT Gandhinagar
+- **Vinayak Rana** - IIT Gandhinagar
 
-## 📖 Prerequisites
-Students should have prior knowledge of:  
-- Machine Learning  
-- Probability, Statistics & Data Visualization  
-- Basics of Computer Vision & NLP  
+## Prerequisites & Requirements
 
-## 🖥 Software Requirements
-- **Python**  
+**Knowledge Prerequisites:**
+- 🧠 Machine Learning
+- 📊 Probability, Statistics & Data Visualization  
+- 👁️ Basics of Computer Vision & NLP
 
-## 📌 Applying for the Summer Schools
+**Software Requirements:**
+- 🐍 Python
 
-The application fee for this school program is **₹150 + 18% GST**.  
-You can give **first and second preference** in the application form.  
-All payments are **non-refundable**. Please apply **after careful consideration** since demand is high and seats are limited.
+## Application Information
 
-👉 **[Apply for the Summer Schools 2025 here](https://docs.google.com/forms/d/e/1FAIpQLScsgmXp-i_895k_J4hES6e0BoO9yq3heN8fOfhLSy6hZMDp9Q/viewform)**  
+**Application Fee:** ₹150 + 18% GST  
+You can select first and second preferences in the application form.  
+*All payments are non-refundable. Apply after careful consideration.*
 
-### 📅 Important Dates
+### Important Dates
+- **Application Deadline:** Sunday, April 13, 2025 (11:59 PM IST)
+- **Selection Announcement:** Wednesday, April 23, 2025  
+- **Fee Payment Deadline:** Wednesday, April 30, 2025
 
-- **Last date for application**
-  🗓️ **Sunday, April 13, 2025 (1159 PM IST)**  
-- **Announcement of selections**
-  🗓️ **Wednesday, April 23, 2025**  
-- **Payment of fees by selected students**
-  🗓️ **Wednesday, April 30, 2025**
+**[Apply for the Summer Schools 2025 here](https://docs.google.com/forms/d/e/1FAIpQLScsgmXp-i_895k_J4hES6e0BoO9yq3heN8fOfhLSy6hZMDp9Q/viewform)**
 
-## 📝 Selection & Registration
+## Selection & Registration
 
-- **Selection** Based on data submitted in the application. Selected students will be notified by email.  
-- **Registration** Only selected students must pay **non-refundable fees (₹3000 + 18% GST)** which includes **lodging and boarding** at the venue.  
-  - A **non-shareable payment link** will be sent to selected students.  
-  - Once selected to a school, **you cannot switch** to another.  
-  - **Ensure you pay and register** to be fair to those not selected. 
+**Selection:** Based on application data. Selected students will be notified by email.
 
----
+**Registration Fee:** ₹3000 + 18% GST (includes lodging and boarding)
+- Non-shareable payment link sent to selected students
+- Cannot switch schools once selected  
+- Payment required to confirm attendance
 
-## ℹ️ General Information
+## Program Details
 
-- The schools will be **in-person** only.  
-- Selected students must arrange **travel on their own**.  
-- No travel support is provided.  
-- Each day includes **lectures + hands-on tutorials**.  
-- Some schools may host **industry sessions** on career opportunities.  
-- Top students may receive **internship opportunities** and an **all-expense-paid trip** to
-  🏆 **ACM India ARCS Symposium & Annual Event 2026**  
-  📍 **IIT Hyderabad, Feb–Mar 2026**
+**Format:**
+- 🏢 In-person only
+- ✈️ Travel arrangements by participants
+- 🚫 No travel support provided
+- 📚 Daily lectures + hands-on tutorials
 
-## 📅 Schedule  
-👉 **[Click here for the detailed schedule](schedule.qmd)** | **[Download PDF](acm-summer-2025-schedule.pdf)**  
+**Opportunities:**
+- 💼 Industry career sessions
+- 🎯 Internship opportunities for top students
+- 🏆 All-expense-paid trip to **ACM India ARCS Symposium 2026** at IIT Hyderabad
+
+## Schedule
+**[Click here for the detailed schedule](schedule.qmd)** | **[Download PDF](acm-summer-2025-schedule.pdf)**
 
 ---
 

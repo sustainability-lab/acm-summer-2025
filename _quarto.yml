@@ -16,14 +16,15 @@ website:
         text: Speakers
       - href: selected.qmd
         text: Selected Participants
-      - text: "Sustainability Lab"
+      - text: "🏠 Sustainability Lab"
         href: "https://sustainability-lab.github.io/"
 
 format:
   html:
-    theme: litera
-    highlight-style: a11y-dark
-    mainfont: "Roboto"
+    theme:
+      light: [litera, styles.scss]
+    highlight-style: atom-one
+    mainfont: "Inter"
     code-copy: true
     code-overflow: wrap
     toc: true
