@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap';
+
+$font-family-sans-serif: "Roboto", sans-serif;
+
+/*-- scss:rules --*/
+
+body {
+    font-family: $font-family-sans-serif;
+}
+
+// Enhanced tables
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  
+  th {
+    background: #f8fafc;
+    color: #374151;
+    font-weight: 600;
+    padding: 0.75rem;
+    border-bottom: 2px solid #e5e7eb;
+  }
+  
+  td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #f1f5f9;
+    
+    &:first-child {
+      font-weight: 500;
+      color: #2563eb;
+    }
+  }
+  
+  tr:hover {
+    background: #f8fafc;
+  }
+  
+  tr:last-child td {
+    border-bottom: none;
+  }
+}

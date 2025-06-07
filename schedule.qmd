@@ -1,0 +1,166 @@
+---
+title: "Schedule – ACM India Summer School 2025"
+---
+
+# 📅 ACM India Summer School 2025 – Schedule
+
+📍 IIT Gandhinagar | 📆 **02–13 June 2025** | [📄 Download Schedule](acm-summer-2025-schedule.pdf)
+
+---
+
+::: {.panel-tabset}
+
+## Day 1 (June 2)
+
+| Time | Session |
+|------|---------|
+| 8:30 AM - 9:00 AM | **Registration** |
+| 9:00 AM - 10:30 AM | **Opening Remarks**: Prof. Rajat Moona (IIT Gandhinagar)<br>**Program Introduction**: Prof. Anirban Dasgupta and Prof. Nipun Batra (IIT Gandhinagar) |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Dr. Prasant Misra (TCS Research)<br>**Topic**: Information Processing Techniques for Mobile Sensing at Scale |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Sleep Apnea sensing |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Ayush Shrivastava (IIT Gandhinagar)<br>**Topic**: Object Detection |
+
+## Day 2 (June 3)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Keynote**: Dr. Venkat Padmnabhan (Microsoft Research India) |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Dr. Shailesh Deshpande (TCS Research)<br>**Topic**: Remote Sensing for Sustainability |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Pallavi Bharadwaj (IIT Gandhinagar)<br>**Topic**: EVs |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Dr. Shailesh Deshpande (TCS Research)<br>**Topic**: Optimization |
+
+## Day 3 (June 4)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Energy Disaggregation |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**: Network and optimization for food security |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Yogesh Kumar Meena (IIT Gandhinagar)<br>**Topic**: Accessibility interfaces and emerging markets |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Shataxi Dubey (IIT Gandhinagar)<br>**Topic**: VLMs |
+
+## Day 4 (June 5)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Speaker**: Dr. Jigar Doshi<br>**Topic**: Building Socially Impactful Solutions using AI - Public Health |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**: Physics-guided machine learning for water and floods |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Vaibhav Tripathi (IIT Gandhinagar)<br>**Topic**: Connectome-based Predictive Modeling |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Himanshu<br>**Topic**: LLM finetuning |
+
+## Day 5 (June 6)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Speaker**: Dr. Jigar Doshi<br>**Topic**: Building Socially Impactful Solutions using AI - Agriculture and Climate |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Tutorial/Lab**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**: [Continuation from morning session] |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Niladri / Dr. Rishiraj Adhikary (Jio) |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Zeel B Patel<br>**Topic**: Meta learning |
+
+## Day 6 (June 7)
+
+| Time | Session |
+|------|---------|
+| | **Holiday** |
+
+## Day 7 (June 8)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Speaker**: Dr. Bimal (ISRO SAC)<br>**Topic**: TBD |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Prof. Shanmuga (IIT Gandhinagar)<br>**Topic**: AI for Pose Estimation |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Alok Talekar (Google DeepMind India) |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Alok Talekar (Google DeepMind India) |
+
+## Day 8 (June 9)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Brick Kiln detection from satellite imagery |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Prof. Krishna Prasad (IIT Gandhinagar)<br>**Topic**: Brain Computer Interfacing |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Manish Jain (IIT Gandhinagar - CCL)<br>**Topic**: Learning to learn |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Zeel B Patel, Vinayak Rana and Suruchi Hardaha<br>**Topic**: Active Learning |
+
+## Day 9 (June 10)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: VayuBuddy: LLMs for air quality informatics |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Prof. Manisha Padala (IIT Gandhinagar)<br>**Topic**: Adversarial Attack on Fairness in FL |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Dr. Vaibhav Rajan (Google DeepMind)<br>**Topic**: Personalized Treatment Planning Models for Cancer |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Rishabh Mondal<br>**Topic**: SSL Vision |
+
+## Day 10 (June 11)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Speaker**: Prof. Tavpritesh Sethi (IIIT-Delhi)<br>**Topic**: Causal Models |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Dr. Vaibhav Rajan (Google DeepMind)<br>**Topic**: Personalized Treatment Planning Models for Cancer |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Sayan Ranu (IIT Delhi)<br>**Topic**: Graph neural networks |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Shubhajit Roy<br>**Topic**: Graph neural networks hands-on |
+
+## Day 11 (June 12)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Speaker**: Prof. Sayan Ranu (IIT Delhi)<br>**Topic**: Pollution monitoring using GNNs |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Prof. Sayan Ranu (IIT Delhi)<br>**Topic**: Graph condensation for low-resource environments |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Tavpritesh Sethi (IIIT-Delhi)<br>**Topic**: Health Systems Preparedness with Data and AI |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Dr. Ujjwal Gupta (ISRO SAC)<br>**Topic**: Remote sensing Hands-on |
+
+## Day 12 (June 13)
+
+| Time | Session |
+|------|---------|
+| 9:00 AM - 10:30 AM | **Keynote**: Dr. Manish Gupta (Google DeepMind) |
+| 10:30 AM - 11:00 AM | **Break** |
+| 11:00 AM - 12:30 PM | **Speaker**: Dr. Mohit Jain (Microsoft Research India) |
+| 12:30 PM - 2:00 PM | **Lunch Break** |
+| 2:00 PM - 3:30 PM | **Speaker**: Dr. Mohit Jain (Microsoft Research India) |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Convocation and Certificate Distribution**<br>**Feedback Session** |
+
+:::
+
+---
+
+## 📺 Presentation Materials
+
+*Slides and recordings will be added here after each session.*
+
+**For each session, we will provide:**
+- 📊 **Slides**: Direct download links
+- 🎥 **Recording**: YouTube video links  
+- 📚 **Resources**: Additional materials and references
+- 💻 **Lab Materials**: Tutorial notebooks and code
+
+*This section will be updated progressively as the summer school proceeds.*

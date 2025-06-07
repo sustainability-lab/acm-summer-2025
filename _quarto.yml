@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ACM India Summer School 2025"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule  
+      - href: speakers.qmd
+        text: Speakers
+      - href: selected.qmd
+        text: Selected Participants
+      - text: "Sustainability Lab"
+        href: "https://sustainability-lab.github.io/"
+
+format:
+  html:
+    theme: litera
+    highlight-style: a11y-dark
+    mainfont: "Roboto"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    
+execute:
+  freeze: auto
