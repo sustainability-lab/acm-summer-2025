@@ -86,7 +86,7 @@ title: ""
 | 10:30 AM - 11:00 AM | **Break** | - |
 | 11:00 AM - 12:30 PM | **Speaker**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**:  Physics-guided machine learning for water and floods |  |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Brick Kiln detection from satellite imagery |  |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: LLMs for Air Quality: Structured Reasoning Meets Zero-Shot Prediction |  |
 | 3:30 PM - 4:00 PM | **Break** | - |
 | 4:00 PM - 5:30 PM | **Speaker**: Prof. Krishna Prasad (IIT Gandhinagar)<br>**Topic**: Brain Computer Interfacing |  |
 
@@ -98,7 +98,8 @@ title: ""
 | 10:30 AM - 11:00 AM | **Break** | - |
 | 11:00 AM - 12:30 PM | **Tutorial/Lab**: Alok Talekar (Google Deepmind India)<br>**Topic**: Remote Sensing / Energy <> Emissions monitoring |  |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**:Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Energy Disaggregation |  |
+| 2:00 PM - 3:30 PM | **Speaker**:Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Data, Disaggregation, Deployment:
+A Decade in Energy Analytics |  |
 | 3:30 PM - 4:00 PM | **Break** | - |
 | 4:00 PM - 5:30 PM | **Speaker**: Prof. Manish Jain (IIT Gandhinagar - CCL)<br>**Topic**: Learning to learn |  |
 
@@ -106,7 +107,7 @@ title: ""
 
 | Time | Session | Material |
 |------|---------|----------|
-| 9:00 AM - 10:30 AM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: VayuBuddy: LLMs for air quality informatics |  |
+| 9:00 AM - 10:30 AM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Brick Kilns from Orbit: Detection, Benchmarking, and Compliance in South Asia |  |
 | 10:30 AM - 11:00 AM | **Break** | - |
 | 11:00 AM - 12:30 PM | **Speaker**: Prof. Manisha Padala (IIT Gandhinagar)<br>**Topic**: Adversarial Attack on Fairness in FL |  |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
@@ -161,6 +162,7 @@ title: ""
 *Slides and recordings will be added here after each session.*
 
 **For each session, we will provide:**
+
 - 📊 **Slides**: Direct download links
 - 🎥 **Recording**: YouTube video links  
 - 📚 **Resources**: Additional materials and references
