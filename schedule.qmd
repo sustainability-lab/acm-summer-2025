@@ -84,7 +84,7 @@ title: ""
 |------|---------|----------|
 | 9:00 AM - 10:30 AM | **Speaker**: Dr. Bimal (ISRO SAC)<br>**Topic**: TBD |  |
 | 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**:  Physics-guided machine learning for water and floods |  |
+| 11:00 AM - 12:30 PM | **Speaker**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**:  Physics-guided machine learning for water and floods | [Slides](slides/day7/ACM_drop_to_data.pdf) |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
 | 2:00 PM - 3:30 PM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: LLMs for Air Quality: Structured Reasoning Meets Zero-Shot Prediction |  |
 | 3:30 PM - 4:00 PM | **Break** | - |
