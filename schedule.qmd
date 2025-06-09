@@ -55,7 +55,7 @@ title: ""
 | 10:30 AM - 11:00 AM | **Break** | - |
 | 11:00 AM - 12:30 PM | **Speaker**: Prof. Shanmuga (IIT Gandhinagar) <br>**Topic**: AI for Pose Estimation | [Slides](https://docs.google.com/presentation/d/1GUhgJmsbMAuEMCn7PAuMk3PkCIY5rePshIAk9GoL0L4/edit?slide=id.g35077dd5f36_0_17#slide=id.g35077dd5f36_0_17) |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Vaibhav Tripathi (IIT Gandhinagar)<br>**Topic**: Connectome-based Predictive Modeling |  |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Vaibhav Tripathi (IIT Gandhinagar)<br>**Topic**: Connectome-based Predictive Modeling | [Slides](slides/day4/Connectome-based%20Predictive%20Modeling.pdf) |
 | 3:30 PM - 4:00 PM | **Break** | - |
 | 4:00 PM - 5:30 PM | **Tutorial/Lab**: Zeel B Patel<br>**Topic**: LLM Finetuning | [Colab NB](https://colab.research.google.com/drive/1VI36tir7TJuostJZsH8p2PbVrmts8ong?usp=sharing) |
 
@@ -67,7 +67,7 @@ title: ""
 | 10:30 AM - 11:00 AM | **Break** | - |
 | 11:00 AM - 12:30 PM | **Tutorial/Lab**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**: [Continuation from morning session] |  |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Niladri / Dr. Rishiraj Adhikary (Jio) |  |
+| 2:00 PM - 3:30 PM | **Speaker**: Niladri / Dr. Rishiraj Adhikary (Jio) | [Slides](slides/day5/AI%20Products%20for%20Sustainability_V1.0.pdf) |
 | 3:30 PM - 4:00 PM | **Break** | - |
 | 4:00 PM - 5:30 PM | **Tutorial/Lab**: Ayush and Rishiraj<br>**Topic**: PPG from Smartphone |  |
 
