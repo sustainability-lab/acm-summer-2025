@@ -43,7 +43,7 @@ title: ""
 | 10:30 AM - 11:00 AM | **Break** | - |
 | 11:00 AM - 12:30 PM | **Speaker**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**: Network and optimization for food security |  |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Yogesh Kumar Meena (IIT Gandhinagar)<br>**Topic**: Accessibility interfaces and emerging markets | [Video](https://www.youtube.com/watch?v=wVnD31_m42E&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=6&pp=iAQB) |
+| 2:00 PM - 3:30 PM | **Speaker**: Prof. Yogesh Kumar Meena (IIT Gandhinagar)<br>**Topic**: Accessibility interfaces and emerging markets | [Video](https://www.youtube.com/watch?v=wVnD31_m42E&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=6&pp=iAQB), [Slides](slides/day3/accessibility_interfaces.pdf) |
 | 3:30 PM - 4:00 PM | **Break** | - |
 | 4:00 PM - 5:30 PM | **Tutorial/Lab**: Zeel B Patel, Vinayak Rana and Suruchi Hardaha |[Video](https://www.youtube.com/watch?v=8gGedQKumh0&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=7&pp=iAQB), [Slides](slides/day3/AQ-Sensor-Deployment.pdf) ,[Blog Post](https://patel-zeel.github.io/active-learning-visualization/), [Colab NB](https://colab.research.google.com/drive/1IypzxsccWhXSl9rom_-YrIpnhBeU0qqX?usp=sharing) |
 
