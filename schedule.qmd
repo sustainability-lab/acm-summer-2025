@@ -29,7 +29,7 @@ title: ""
 |------|---------|----------|
 | 9:00 AM - 10:30 AM | **Keynote**: Dr. Venkat Padmnabhan (Microsoft Research India) | [Slides](slides/day2/perspectives%20on%20having%20impact%20through%20research.pdf) |
 | 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Dr. Shailesh Deshpande (TCS Research)<br>**Topic**: Remote Sensing for Sustainability | [Slides](slides/day2/Remote%20sensing%20for%20sustainability_3june2025_IITGN_ShaileshDeshpande.pdf) |
+| 11:00 AM - 12:30 PM | **Speaker**: Dr. Shailesh Deshpande (TCS Research)<br>**Topic**: Remote Sensing for Sustainability | [Slides](slides/day2/Remote%20sensing%20for%20sustainability_3june2025_IITGN_ShaileshDeshpande.pdf), [Video](https://www.youtube.com/watch?v=dPEFpl9pKec&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=14&pp=iAQB) |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
 | 2:00 PM - 3:30 PM | **Speaker**: Prof. Pallavi Bharadwaj (IIT Gandhinagar)<br>**Topic**: EVs |[Video](https://www.youtube.com/watch?v=df_5zNInhlM&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=4&pp=iAQB), [Slides](slides/day2/ACM%20Summer%20school%20Battery%20Performance%20Optimization%20Slides.pdf) |
 | 3:30 PM - 4:00 PM | **Break** | - |
