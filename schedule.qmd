@@ -17,7 +17,7 @@ title: ""
 | 8:30 AM - 9:00 AM | **Registration** | - |
 | 9:00 AM - 10:30 AM | **Opening Remarks**: Prof. Rajat Moona (IIT Gandhinagar)<br>**Program Introduction**: Prof. Anirban Dasgupta and Prof. Nipun Batra (IIT Gandhinagar) | [Video](https://www.youtube.com/watch?v=oH5n0LUF9YA&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=1&pp=iAQB), [Slides](slides/day1/ACM%20India%20Summer%20School.pdf) |
 | 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Dr. Prasant Misra (TCS Research)<br>**Topic**: Information Processing Techniques for Mobile Sensing at Scale |  |
+| 11:00 AM - 12:30 PM | **Speaker**: Dr. Prasant Misra (TCS Research)<br>**Topic**: Information Processing Techniques for Mobile Sensing at Scale | [Slides](slides/day1/mobile-sensing-acm-summerschool-2025.pdf) |
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
 | 2:00 PM - 3:30 PM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Sleep Apnea sensing | [Video](https://www.youtube.com/watch?v=znZnA5Fu_yM&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=3&pp=iAQB), [Slides(.pdf)](slides/day1/NB-ACM-Summer-School-Health.pdf) |
 | 3:30 PM - 4:00 PM | **Break** | - |
@@ -33,7 +33,7 @@ title: ""
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
 | 2:00 PM - 3:30 PM | **Speaker**: Prof. Pallavi Bharadwaj (IIT Gandhinagar)<br>**Topic**: EVs |[Video](https://www.youtube.com/watch?v=df_5zNInhlM&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=4&pp=iAQB), [Slides](slides/day2/ACM%20Summer%20school%20Battery%20Performance%20Optimization%20Slides.pdf) |
 | 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Dr. Shailesh Deshpande (TCS Research)<br>**Topic**: Optimization |  |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Dr. Shailesh Deshpande (TCS Research)<br>**Topic**: Optimization | [Slides](slides/day2/EV-optimization-acm-summerschool-2025.pdf) |
 
 ## Day 3 (June 4)
 
