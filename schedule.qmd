@@ -33,7 +33,7 @@ title: ""
 | 12:30 PM - 2:00 PM | **Lunch Break** | - |
 | 2:00 PM - 3:30 PM | **Speaker**: Prof. Pallavi Bharadwaj (IIT Gandhinagar)<br>**Topic**: EVs |[Video](https://www.youtube.com/watch?v=df_5zNInhlM&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=4&pp=iAQB), [Slides](slides/day2/ACM%20Summer%20school%20Battery%20Performance%20Optimization%20Slides.pdf) |
 | 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Dr. Shailesh Deshpande (TCS Research)<br>**Topic**: Optimization | [Slides](slides/day2/EV-optimization-acm-summerschool-2025.pdf) |
+| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Dr. Prasant Misra (TCS Research)<br>**Topic**: Optimization | [Slides](slides/day2/EV-optimization-acm-summerschool-2025.pdf) |
 
 ## Day 3 (June 4)
 
