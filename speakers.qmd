@@ -44,14 +44,14 @@ Talks on AI for public health, agriculture, and climate sustainability.
 ---
 
 ### **Dr. Prasant Misra**
-*Principal Scientist, TCS Research*  
-Expert in mobile sensing and information processing at scale.
+*Senior Scientist, TCS Research*  
+Expert in Mobile Sensing and Optimization in CPS
 
 ---
 
 ### **Dr. Shailesh Deshpande**
-*Scientist, TCS Research*  
-Remote sensing expert; also conducting optimization labs.
+*Principal Scientist, TCS Research*  
+Expert in Remote Sensing and Sustainability
 
 ---
 
