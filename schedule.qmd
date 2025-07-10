@@ -197,7 +197,7 @@ title: ""
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // Color code table rows based on session content
+  // Color code table rows based on session content and handle mobile layout
   const tables = document.querySelectorAll('table');
   
   tables.forEach(table => {
@@ -209,6 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
       
       const sessionText = sessionCell.textContent.toLowerCase();
       
+      // Add session type class for coloring
       if (sessionText.includes('keynote')) {
         row.classList.add('session-keynote');
       } else if (sessionText.includes('tutorial') || sessionText.includes('lab')) {
@@ -220,6 +221,15 @@ document.addEventListener('DOMContentLoaded', function() {
       } else {
         row.classList.add('session-speaker');
       }
+      
+      // Mark empty cells for mobile hiding
+      const cells = row.querySelectorAll('td');
+      cells.forEach(cell => {
+        const content = cell.textContent.trim();
+        if (content === '-' || content === '') {
+          cell.setAttribute('data-empty', 'true');
+        }
+      });
     });
   });
 });

@@ -454,8 +454,67 @@ table tr td:nth-child(5) a:hover {
   border-left-color: #a78bfa;
 }
 
-/* Responsive legend */
+/* Mobile table responsiveness */
 @media (max-width: 768px) {
+  /* Hide table structure on mobile and stack content */
+  table, thead, tbody, th, td, tr {
+    display: block !important;
+  }
+  
+  /* Hide table headers on mobile */
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  
+  /* Style each row as a card */
+  tbody tr {
+    border: 1px solid var(--border-light) !important;
+    border-radius: 8px !important;
+    padding: 1rem !important;
+    margin-bottom: 1rem !important;
+    position: relative;
+    background: white !important;
+  }
+  
+  /* Stack table cells vertically */
+  tbody td {
+    border: none !important;
+    border-bottom: 1px solid var(--border-light) !important;
+    position: relative;
+    padding: 0.5rem 0 !important;
+    width: 100% !important;
+    text-align: left !important;
+  }
+  
+  /* Add labels before each cell content */
+  tbody td:nth-child(1):before { content: "Time: "; font-weight: bold; color: var(--primary-color); }
+  tbody td:nth-child(2):before { content: "Session: "; font-weight: bold; color: var(--primary-color); }
+  tbody td:nth-child(3):before { content: "Speaker: "; font-weight: bold; color: var(--primary-color); }
+  tbody td:nth-child(4):before { content: "Affiliation: "; font-weight: bold; color: var(--primary-color); }
+  tbody td:nth-child(5):before { content: "Material: "; font-weight: bold; color: var(--primary-color); }
+  
+  /* Hide empty cells and cells with just "-" */
+  tbody td:empty {
+    display: none !important;
+  }
+  
+  /* Hide cells that only contain "-" */
+  tbody td:not(:nth-child(1)) {
+    position: relative;
+  }
+  
+  tbody td[data-empty="true"] {
+    display: none !important;
+  }
+  
+  /* Remove last border */
+  tbody td:last-child {
+    border-bottom: none !important;
+  }
+  
+  /* Responsive legend */
   .session-legend {
     gap: 1rem;
     padding: 0.75rem;
