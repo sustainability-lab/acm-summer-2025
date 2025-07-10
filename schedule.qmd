@@ -8,33 +8,28 @@ title: ""
 
 ## Session Types
 
-::: {.session-legend}
-::: {.legend-item}
-::: {.legend-color .keynote-legend}
-:::
-Keynotes
-:::
-::: {.legend-item}
-::: {.legend-color .speaker-legend}
-:::
-Speakers
-:::
-::: {.legend-item}
-::: {.legend-color .tutorial-legend}
-:::
-Tutorials/Labs
-:::
-::: {.legend-item}
-::: {.legend-color .break-legend}
-:::
-Breaks
-:::
-::: {.legend-item}
-::: {.legend-color .registration-legend}
-:::
-Registration
-:::
-:::
+<div class="session-legend">
+  <span class="legend-item">
+    <span class="legend-box keynote-legend"></span>
+    <span class="legend-text">Keynotes</span>
+  </span>
+  <span class="legend-item">
+    <span class="legend-box speaker-legend"></span>
+    <span class="legend-text">Speakers</span>
+  </span>
+  <span class="legend-item">
+    <span class="legend-box tutorial-legend"></span>
+    <span class="legend-text">Tutorials/Labs</span>
+  </span>
+  <span class="legend-item">
+    <span class="legend-box break-legend"></span>
+    <span class="legend-text">Breaks</span>
+  </span>
+  <span class="legend-item">
+    <span class="legend-box registration-legend"></span>
+    <span class="legend-text">Registration</span>
+  </span>
+</div>
 
 ---
 
