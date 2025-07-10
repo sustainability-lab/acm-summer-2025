@@ -6,6 +6,8 @@ title: ""
 **AI for Social Good • 11-Day Intensive Program**  
 **Hosted by IIT Gandhinagar • June 2-13, 2025**
 
+![Participants, speakers, and organizers of ACM India Summer School 2025](https://sustainability-lab.github.io/images/memories/2025-acm-summer-school-2.jpg){.hero-image}
+
 **[Apply Now](https://docs.google.com/forms/d/e/1FAIpQLScsgmXp-i_895k_J4hES6e0BoO9yq3heN8fOfhLSy6hZMDp9Q/viewform)** | **[View Schedule](schedule.qmd)**
 
 ## Program Overview
@@ -15,33 +17,33 @@ Our program combines **expert talks**, **hands-on tutorials**, and **interactive
 
 ## Host Institution
 **IIT Gandhinagar**  
-📍 Palaj, Gandhinagar, Gujarat, 382055
+**Address:** Palaj, Gandhinagar, Gujarat, 382055
 
 ## Program Coordinators
 
 **Local Coordinator:** Dr. Nipun Batra  
-📧 [nipun.batra@iitgn.ac.in](mailto:nipun.batra@iitgn.ac.in)
+**Email:** [nipun.batra@iitgn.ac.in](mailto:nipun.batra@iitgn.ac.in)
 
 **Academic Coordinator:** Dr. Anirban Dasgupta  
-📧 [anirbandg@iitgn.ac.in](mailto:anirbandg@iitgn.ac.in)
+**Email:** [anirbandg@iitgn.ac.in](mailto:anirbandg@iitgn.ac.in)
 
 ## Topics Covered
 
 ### AI for Social Good Domains
-- 🏥 AI for Healthcare
-- 🌱 AI for Sustainability  
-- 🌾 AI for Agriculture
+- AI for Healthcare
+- AI for Sustainability  
+- AI for Agriculture
 
 ### Technical Topics
-- 🔍 Object Detection
-- 🎯 Bandits and Reinforcement Learning
-- 📈 Time Series Modeling
-- 🤖 Large Language Models (LLMs)
-- ⚖️ Fairness & Explainability in AI
-- 🔄 Self-Supervised Learning
-- 📊 Bayesian ML
-- 🌐 Graph Neural Networks
-- 🎭 Multimodal Learning
+- Object Detection
+- Bandits and Reinforcement Learning
+- Time Series Modeling
+- Large Language Models (LLMs)
+- Fairness & Explainability in AI
+- Self-Supervised Learning
+- Bayesian ML
+- Graph Neural Networks
+- Multimodal Learning
 
 ## Organizers
 - **Dr. Anirban Dasgupta** - Professor, IIT Gandhinagar
@@ -58,12 +60,12 @@ Our program combines **expert talks**, **hands-on tutorials**, and **interactive
 ## Prerequisites & Requirements
 
 **Knowledge Prerequisites:**
-- 🧠 Machine Learning
-- 📊 Probability, Statistics & Data Visualization  
-- 👁️ Basics of Computer Vision & NLP
+- Machine Learning
+- Probability, Statistics & Data Visualization  
+- Basics of Computer Vision & NLP
 
 **Software Requirements:**
-- 🐍 Python
+- Python
 
 ## Application Information
 
@@ -90,15 +92,15 @@ You can select first and second preferences in the application form.
 ## Program Details
 
 **Format:**
-- 🏢 In-person only
-- ✈️ Travel arrangements by participants
-- 🚫 No travel support provided
-- 📚 Daily lectures + hands-on tutorials
+- In-person only
+- Travel arrangements by participants
+- No travel support provided
+- Daily lectures + hands-on tutorials
 
 **Opportunities:**
-- 💼 Industry career sessions
-- 🎯 Internship opportunities for top students
-- 🏆 All-expense-paid trip to **ACM India ARCS Symposium 2026** at IIT Hyderabad
+- Industry career sessions
+- Internship opportunities for top students
+- All-expense-paid trip to **ACM India ARCS Symposium 2026** at IIT Hyderabad
 
 ## Schedule
 **[Click here for the detailed schedule](schedule.qmd)** | **[Download PDF](acm-summer-2025-schedule.pdf)**

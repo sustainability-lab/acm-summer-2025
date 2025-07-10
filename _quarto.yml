@@ -16,7 +16,7 @@ website:
         text: Speakers
       - href: selected.qmd
         text: Selected Participants
-      - text: "🏠 Sustainability Lab"
+      - text: "Sustainability Lab"
         href: "https://sustainability-lab.github.io/"
 
 format:

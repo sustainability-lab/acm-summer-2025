@@ -2,9 +2,39 @@
 title: ""
 ---
 
-# 📅 ACM India Summer School 2025 – Schedule
+# ACM India Summer School 2025 – Schedule
 
-📍 IIT Gandhinagar | 📆 **02–13 June 2025** | [📄 Download Schedule](acm-summer-2025-schedule.pdf)
+**Location:** IIT Gandhinagar | **Dates:** 02–13 June 2025 | [Download Schedule](acm-summer-2025-schedule.pdf)
+
+## Session Types
+
+::: {.session-legend}
+::: {.legend-item}
+::: {.legend-color .keynote-legend}
+:::
+Keynotes
+:::
+::: {.legend-item}
+::: {.legend-color .speaker-legend}
+:::
+Speakers
+:::
+::: {.legend-item}
+::: {.legend-color .tutorial-legend}
+:::
+Tutorials/Labs
+:::
+::: {.legend-item}
+::: {.legend-color .break-legend}
+:::
+Breaks
+:::
+::: {.legend-item}
+::: {.legend-color .registration-legend}
+:::
+Registration
+:::
+:::
 
 ---
 
@@ -12,161 +42,190 @@ title: ""
 
 ## Day 1 (June 2)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 8:30 AM - 9:00 AM | **Registration** | - |
-| 9:00 AM - 10:30 AM | **Opening Remarks**: Prof. Rajat Moona (IIT Gandhinagar)<br>**Program Introduction**: Prof. Anirban Dasgupta and Prof. Nipun Batra (IIT Gandhinagar) | [Video](https://www.youtube.com/watch?v=oH5n0LUF9YA&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=1&pp=iAQB), [Slides](slides/day1/ACM%20India%20Summer%20School.pdf) |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Dr. Prasant Misra (TCS Research)<br>**Topic**: Information Processing Techniques for Mobile Sensing at Scale | [Slides](slides/day1/mobile-sensing-acm-summerschool-2025.pdf) |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Sleep Apnea sensing | [Video](https://www.youtube.com/watch?v=znZnA5Fu_yM&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=3&pp=iAQB), [Slides(.pdf)](slides/day1/NB-ACM-Summer-School-Health.pdf) |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Ayush Shrivastava (IIT Gandhinagar)<br>**Topic**: Object Detection | [Video](https://www.youtube.com/watch?v=d-5qFLUMlys&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=2&pp=iAQB0gcJCd4JAYcqIYzv), [Slides](slides/day1/Tut1_ObjectDetection.pdf), [Colab NB](https://colab.research.google.com/drive/1hqSMygfTDa3XC2YkjqBD3wBrHshCXVK7?usp=chrome_ntp) |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 8:30 AM - 9:00 AM | **Registration** | - | - | - |
+| 9:00 AM - 10:30 AM | **Opening Remarks & Program Introduction** | Prof. Rajat Moona, Prof. Anirban Dasgupta, Prof. Nipun Batra | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=oH5n0LUF9YA&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=1&pp=iAQB) [Slides](slides/day1/ACM%20India%20Summer%20School.pdf) |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Information Processing Techniques for Mobile Sensing at Scale** | Dr. Prasant Misra | TCS Research | [Slides](slides/day1/mobile-sensing-acm-summerschool-2025.pdf) |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **Sleep Apnea Sensing** | Prof. Nipun Batra | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=znZnA5Fu_yM&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=3&pp=iAQB) [Slides](slides/day1/NB-ACM-Summer-School-Health.pdf) |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **Object Detection Tutorial** | Ayush Shrivastava | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=d-5qFLUMlys&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=2&pp=iAQB0gcJCd4JAYcqIYzv) [Slides](slides/day1/Tut1_ObjectDetection.pdf) [Colab NB](https://colab.research.google.com/drive/1hqSMygfTDa3XC2YkjqBD3wBrHshCXVK7?usp=chrome_ntp) |
 
 ## Day 2 (June 3)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Keynote**: Dr. Venkat Padmnabhan (Microsoft Research India) | [Slides](slides/day2/perspectives%20on%20having%20impact%20through%20research.pdf), [Video](https://www.youtube.com/watch?v=ixKweTCdlQk&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=14&pp=iAQB) |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Dr. Shailesh Deshpande (TCS Research)<br>**Topic**: Remote Sensing for Sustainability | [Slides](slides/day2/Remote%20sensing%20for%20sustainability_3june2025_IITGN_ShaileshDeshpande.pdf), [Video](https://www.youtube.com/watch?v=dPEFpl9pKec&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=14&pp=iAQB) |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Pallavi Bharadwaj (IIT Gandhinagar)<br>**Topic**: EVs |[Video](https://www.youtube.com/watch?v=df_5zNInhlM&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=4&pp=iAQB), [Slides](slides/day2/ACM%20Summer%20school%20Battery%20Performance%20Optimization%20Slides.pdf) |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Dr. Prasant Misra (TCS Research)<br>**Topic**: Optimization | [Slides](slides/day2/EV-optimization-acm-summerschool-2025.pdf) |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **Keynote: Perspectives on Having Impact Through Research** | Dr. Venkat Padmanabhan | Microsoft Research India | [Slides](slides/day2/perspectives%20on%20having%20impact%20through%20research.pdf) [Video](https://www.youtube.com/watch?v=ixKweTCdlQk&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=14&pp=iAQB) |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Remote Sensing for Sustainability** | Dr. Shailesh Deshpande | TCS Research | [Slides](slides/day2/Remote%20sensing%20for%20sustainability_3june2025_IITGN_ShaileshDeshpande.pdf) [Video](https://www.youtube.com/watch?v=dPEFpl9pKec&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=14&pp=iAQB) |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **Electric Vehicles & Battery Performance Optimization** | Prof. Pallavi Bharadwaj | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=df_5zNInhlM&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=4&pp=iAQB) [Slides](slides/day2/ACM%20Summer%20school%20Battery%20Performance%20Optimization%20Slides.pdf) |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **EV Optimization Tutorial** | Dr. Prasant Misra | TCS Research | [Slides](slides/day2/EV-optimization-acm-summerschool-2025.pdf) |
 
 ## Day 3 (June 4)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Tutorial/Lab**: Shataxi Dubey (IIT Gandhinagar)<br>**Topic**: VLMs |[Video](https://www.youtube.com/watch?v=OgGh9DaPG4g&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=5&pp=iAQB), [Slides](slides/day3/acm_vlm_tutorial_slides.pdf), [Colab NB](https://colab.research.google.com/drive/1Tx3onYjNpe4PPR1m4pMvOrWLPglwY3p8?usp=sharing) |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**: Network and optimization for food security |  |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Yogesh Kumar Meena (IIT Gandhinagar)<br>**Topic**: Accessibility interfaces and emerging markets | [Video](https://www.youtube.com/watch?v=wVnD31_m42E&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=6&pp=iAQB), [Slides](slides/day3/accessibility_interfaces.pdf) |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Zeel B Patel, Vinayak Rana and Suruchi Hardaha |[Video](https://www.youtube.com/watch?v=8gGedQKumh0&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=7&pp=iAQB), [Slides](slides/day3/AQ-Sensor-Deployment.pdf) ,[Blog Post](https://patel-zeel.github.io/active-learning-visualization/), [Colab NB](https://colab.research.google.com/drive/1IypzxsccWhXSl9rom_-YrIpnhBeU0qqX?usp=sharing) |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **VLMs Tutorial** | Shataxi Dubey | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=OgGh9DaPG4g&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=5&pp=iAQB) [Slides](slides/day3/acm_vlm_tutorial_slides.pdf) [Colab NB](https://colab.research.google.com/drive/1Tx3onYjNpe4PPR1m4pMvOrWLPglwY3p8?usp=sharing) |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Network and Optimization for Food Security** | Prof. Udit Bhatia | IIT Gandhinagar | - |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **Accessibility Interfaces and Emerging Markets** | Prof. Yogesh Kumar Meena | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=wVnD31_m42E&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=6&pp=iAQB) [Slides](slides/day3/accessibility_interfaces.pdf) |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **Air Quality Sensor Deployment Tutorial** | Zeel B Patel, Vinayak Rana, Suruchi Hardaha | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=8gGedQKumh0&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=7&pp=iAQB) [Slides](slides/day3/AQ-Sensor-Deployment.pdf) [Blog Post](https://patel-zeel.github.io/active-learning-visualization/) [Colab NB](https://colab.research.google.com/drive/1IypzxsccWhXSl9rom_-YrIpnhBeU0qqX?usp=sharing) |
 
 ## Day 4 (June 5)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Speaker**: Dr. Jigar Doshi<br>**Topic**: Building Socially Impactful Solutions using AI - Public Health | [Slides](slides/day4/Building%20Socially%20Impactful%20Solutions%20using%20AI.pdf), [Video](https://www.youtube.com/watch?v=LiMYXkDOfHY&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=15) |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Prof. Shanmuga (IIT Gandhinagar) <br>**Topic**: AI for Pose Estimation |[Video](https://www.youtube.com/watch?v=UOThqHw-Odw&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=8&pp=iAQB0gcJCd4JAYcqIYzv), [Slides](https://docs.google.com/presentation/d/1GUhgJmsbMAuEMCn7PAuMk3PkCIY5rePshIAk9GoL0L4/edit?slide=id.g35077dd5f36_0_17#slide=id.g35077dd5f36_0_17) |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Vaibhav Tripathi (IIT Gandhinagar)<br>**Topic**: Connectome-based Predictive Modeling |[Video](https://www.youtube.com/watch?v=HCwjW0ufYY0&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=9&pp=iAQB), [Slides](slides/day4/Connectome-based%20Predictive%20Modeling.pdf) |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Zeel B Patel<br>**Topic**: LLM Finetuning |[Video](https://www.youtube.com/watch?v=0bf_kXE7pxo&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=10&pp=iAQB), [Colab NB](https://colab.research.google.com/drive/1VI36tir7TJuostJZsH8p2PbVrmts8ong?usp=sharing) |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **Building Socially Impactful Solutions using AI - Public Health** | Dr. Jigar Doshi | - | [Slides](slides/day4/Building%20Socially%20Impactful%20Solutions%20using%20AI.pdf) [Video](https://www.youtube.com/watch?v=LiMYXkDOfHY&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=15) |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **AI for Pose Estimation** | Prof. Shanmuganathan Raman | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=UOThqHw-Odw&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=8&pp=iAQB0gcJCd4JAYcqIYzv) [Slides](https://docs.google.com/presentation/d/1GUhgJmsbMAuEMCn7PAuMk3PkCIY5rePshIAk9GoL0L4/edit?slide=id.g35077dd5f36_0_17#slide=id.g35077dd5f36_0_17) |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **Connectome-based Predictive Modeling** | Prof. Vaibhav Tripathi | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=HCwjW0ufYY0&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=9&pp=iAQB) [Slides](slides/day4/Connectome-based%20Predictive%20Modeling.pdf) |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **LLM Finetuning Tutorial** | Zeel B Patel | IIT Gandhinagar | [Video](https://www.youtube.com/watch?v=0bf_kXE7pxo&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=10&pp=iAQB) [Colab NB](https://colab.research.google.com/drive/1VI36tir7TJuostJZsH8p2PbVrmts8ong?usp=sharing) |
 
 ## Day 5 (June 6)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Speaker**: Dr. Jigar Doshi<br>**Topic**: Building Socially Impactful Solutions using AI - Agriculture and Climate |[Video](https://www.youtube.com/watch?v=X1gIuUY35BQ&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=16&pp=iAQB)  |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Tutorial/Lab**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**: [Continuation from morning session] |  |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Niladri / Dr. Rishiraj Adhikary (Jio) | [Slides](slides/day5/AI%20Products%20for%20Sustainability_V1.0.pdf), [Video](https://www.youtube.com/watch?v=UlXkk2kuCO8&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=17&pp=iAQB) |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Ayush and Rishiraj<br>**Topic**: PPG from Smartphone | [Video](https://www.youtube.com/watch?v=2kbMB18UlzY&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=12&pp=iAQB), [Slides](slides/day5/Smartphone-based%20Health%20Sensing.pdf),[Colab NB](https://colab.research.google.com/drive/1DippzfQxnZn7a113vxNMPs2mXhSHQe4v#scrollTo=195895fd) |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **Building Socially Impactful Solutions using AI - Agriculture and Climate** | Dr. Jigar Doshi | - | [Video](https://www.youtube.com/watch?v=X1gIuUY35BQ&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=16&pp=iAQB) |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Continuation from morning session** | Prof. Udit Bhatia | IIT Gandhinagar | - |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **AI Products for Sustainability** | Niladri / Dr. Rishiraj Adhikary | Jio | [Slides](slides/day5/AI%20Products%20for%20Sustainability_V1.0.pdf) [Video](https://www.youtube.com/watch?v=UlXkk2kuCO8&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=17&pp=iAQB) |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **PPG from Smartphone** | Ayush Shrivastava, Rishiraj Adhikary | IIT Gandhinagar, Jio | [Video](https://www.youtube.com/watch?v=2kbMB18UlzY&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=12&pp=iAQB) [Slides](slides/day5/Smartphone-based%20Health%20Sensing.pdf) [Colab NB](https://colab.research.google.com/drive/1DippzfQxnZn7a113vxNMPs2mXhSHQe4v#scrollTo=195895fd) |
 
 
 ## Day 6 (June 7)
 
-| Time | Session | Material |
-|------|---------|----------|
-|      | **Holiday** | - |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| - | **Holiday** | - | - | - |
 
 ## Day 7 (June 8)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Speaker**: Dr. Bimal (ISRO SAC)<br>**Topic**: TBD |  |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Prof. Udit Bhatia (IIT Gandhinagar)<br>**Topic**:  Physics-guided machine learning for water and floods | [Slides](slides/day7/ACM_drop_to_data.pdf) |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: LLMs for Air Quality: Structured Reasoning Meets Zero-Shot Prediction | [Slides](slides/day7/LLMs%20for%20Air%20Quality%20.pdf), [Video](https://www.youtube.com/watch?v=b62SxXMmHls&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=18&pp=iAQB) |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Speaker**: Prof. Krishna Prasad (IIT Gandhinagar)<br>**Topic**: Brain Computer Interfacing |  |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **TBD** | Dr. Bimal | ISRO SAC | - |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Physics-guided machine learning for water and floods** | Prof. Udit Bhatia | IIT Gandhinagar | [Slides](slides/day7/ACM_drop_to_data.pdf) |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **LLMs for Air Quality: Structured Reasoning Meets Zero-Shot Prediction** | Prof. Nipun Batra | IIT Gandhinagar | [Slides](slides/day7/LLMs%20for%20Air%20Quality%20.pdf) [Video](https://www.youtube.com/watch?v=b62SxXMmHls&list=PLZ_buidQ2ipmfOZRKb999cGN1syNc_jnN&index=18&pp=iAQB) |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **Brain Computer Interfacing** | Prof. Krishna Prasad | IIT Gandhinagar | - |
 
 ## Day 8 (June 9)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Speaker**: Alok Talekar (Google Deepmind India)<br>**Topic**: Remote Sensing / Ag |  |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Tutorial/Lab**: Alok Talekar (Google Deepmind India)<br>**Topic**: Remote Sensing / Energy <> Emissions monitoring |  |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**:Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Data, Disaggregation, Deployment:
-A Decade in Energy Analytics |  |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Speaker**: Prof. Manish Jain (IIT Gandhinagar - CCL)<br>**Topic**: Learning to learn |  |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **Remote Sensing / Ag** | Alok Talekar | Google Deepmind India | - |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Remote Sensing / Energy <> Emissions monitoring** | Alok Talekar | Google Deepmind India | - |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **Data, Disaggregation, Deployment: A Decade in Energy Analytics** | Prof. Nipun Batra | IIT Gandhinagar | - |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **Learning to learn** | Prof. Manish Jain | IIT Gandhinagar - CCL | - |
 
 ## Day 9 (June 10)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Speaker**: Prof. Nipun Batra (IIT Gandhinagar)<br>**Topic**: Brick Kilns from Orbit: Detection, Benchmarking, and Compliance in South Asia | [Slides](slides/day9/NB_%20Brick_Kiln_Talk_slide.pdf) |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Prof. Manisha Padala (IIT Gandhinagar)<br>**Topic**: Adversarial Attack on Fairness in FL |  |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Dr. Vaibhav Rajan (Google DeepMind)<br>**Topic**: Personalized Treatment Planning Models for Cancer |  |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Rishabh Mondal<br>**Topic**: SSL Vision |  |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **Brick Kilns from Orbit: Detection, Benchmarking, and Compliance in South Asia** | Prof. Nipun Batra | IIT Gandhinagar | [Slides](slides/day9/NB_%20Brick_Kiln_Talk_slide.pdf) |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Adversarial Attack on Fairness in FL** | Prof. Manisha Padala | IIT Gandhinagar | - |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **Personalized Treatment Planning Models for Cancer** | Dr. Vaibhav Rajan | Google DeepMind | - |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **SSL Vision** | Rishabh Mondal | - | - |
 
 
 ## Day 10 (June 11)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Speaker**: Prof. Tavpritesh Sethi (IIIT-Delhi)<br>**Topic**: Causal Models |  |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Dr. Vaibhav Rajan (Google DeepMind)<br>**Topic**: Personalized Treatment Planning Models for Cancer |  |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Sayan Ranu (IIT Delhi)<br>**Topic**: Graph neural networks |  |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Tutorial/Lab**: Shubhajit Roy<br>**Topic**: Graph neural networks hands-on |  |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **Causal Models** | Prof. Tavpritesh Sethi | IIIT-Delhi | - |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Personalized Treatment Planning Models for Cancer** | Dr. Vaibhav Rajan | Google DeepMind | - |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **Graph neural networks** | Prof. Sayan Ranu | IIT Delhi | - |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **Graph neural networks hands-on** | Shubhajit Roy | - | - |
 
 ## Day 11 (June 12)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Speaker**: Prof. Sayan Ranu (IIT Delhi)<br>**Topic**: Pollution monitoring using GNNs |  |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Prof. Sayan Ranu (IIT Delhi)<br>**Topic**: Graph condensation for low-resource environments |  |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Prof. Tavpritesh Sethi (IIIT-Delhi)<br>**Topic**: Health Systems Preparedness with Data and AI |  |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 4:45 PM | **Tutorial/Lab**: Dr. Ujjwal Gupta (ISRO SAC)<br>**Topic**: Remote sensing Hands-on |  |
-| 5:00 PM - 5:30 PM | **Tutorial/Lab**: Ganesh Misra (IAS)<br>**Topic**: AI Implementation Challenges and Opportunities in Public Administration | [Slides](slides/day11/AI%20in%20Public%20Administration.pdf) |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **Pollution monitoring using GNNs** | Prof. Sayan Ranu | IIT Delhi | - |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **Graph condensation for low-resource environments** | Prof. Sayan Ranu | IIT Delhi | - |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **Health Systems Preparedness with Data and AI** | Prof. Tavpritesh Sethi | IIIT-Delhi | - |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 4:45 PM | **Remote sensing Hands-on** | Dr. Ujjwal Gupta | ISRO SAC | - |
+| 5:00 PM - 5:30 PM | **AI Implementation Challenges and Opportunities in Public Administration** | Ganesh Misra | IAS | [Slides](slides/day11/AI%20in%20Public%20Administration.pdf) |
 
 ## Day 12 (June 13)
 
-| Time | Session | Material |
-|------|---------|----------|
-| 9:00 AM - 10:30 AM | **Keynote**: Dr. Manish Gupta (Google DeepMind) |  |
-| 10:30 AM - 11:00 AM | **Break** | - |
-| 11:00 AM - 12:30 PM | **Speaker**: Dr. Mohit Jain (Microsoft Research India) |  |
-| 12:30 PM - 2:00 PM | **Lunch Break** | - |
-| 2:00 PM - 3:30 PM | **Speaker**: Dr. Mohit Jain (Microsoft Research India) |  |
-| 3:30 PM - 4:00 PM | **Break** | - |
-| 4:00 PM - 5:30 PM | **Convocation and Certificate Distribution**<br>**Feedback Session** | - |
+| Time | Session | Speaker | Affiliation | Material |
+|------|---------|---------|-------------|----------|
+| 9:00 AM - 10:30 AM | **Keynote** | Dr. Manish Gupta | Google DeepMind | - |
+| 10:30 AM - 11:00 AM | *Break* | - | - | - |
+| 11:00 AM - 12:30 PM | **TBD** | Dr. Mohit Jain | Microsoft Research India | - |
+| 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
+| 2:00 PM - 3:30 PM | **TBD** | Dr. Mohit Jain | Microsoft Research India | - |
+| 3:30 PM - 4:00 PM | *Break* | - | - | - |
+| 4:00 PM - 5:30 PM | **Convocation and Certificate Distribution / Feedback Session** | - | - | - |
 
 
 :::
 
 ---
 
-## 📺 Presentation Materials
+## Presentation Materials
 
 *Slides and recordings will be added here after each session.*
 
 **For each session, we will provide:**
 
-- 📊 **Slides**: Direct download links
-- 🎥 **Recording**: YouTube video links  
-- 📚 **Resources**: Additional materials and references
-- 💻 **Lab Materials**: Tutorial notebooks and code
+- **Slides**: Direct download links
+- **Recording**: YouTube video links  
+- **Resources**: Additional materials and references
+- **Lab Materials**: Tutorial notebooks and code
 
 *This section will be updated progressively as the summer school proceeds.*
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Color code table rows based on session content
+  const tables = document.querySelectorAll('table');
+  
+  tables.forEach(table => {
+    const rows = table.querySelectorAll('tbody tr');
+    
+    rows.forEach(row => {
+      const sessionCell = row.querySelector('td:nth-child(2)');
+      if (!sessionCell) return;
+      
+      const sessionText = sessionCell.textContent.toLowerCase();
+      
+      if (sessionText.includes('keynote')) {
+        row.classList.add('session-keynote');
+      } else if (sessionText.includes('tutorial') || sessionText.includes('lab')) {
+        row.classList.add('session-tutorial');
+      } else if (sessionText.includes('break') || sessionText.includes('lunch')) {
+        row.classList.add('session-break');
+      } else if (sessionText.includes('registration')) {
+        row.classList.add('session-registration');
+      } else {
+        row.classList.add('session-speaker');
+      }
+    });
+  });
+});
+</script>

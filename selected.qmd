@@ -3,13 +3,13 @@ title: ""
 ---
 
 
-# 🎉 Congratulations on Your Selection!
+# Congratulations on Your Selection!
 
 Welcome to the ACM India Summer School 2025 on **AI for Social Good** at **IIT Gandhinagar**. Below are essential details to help you prepare for your participation.
 
 ---
 
-## 🏠 Accommodation and Meals
+## Accommodation and Meals
 
 - You will be **provided hostel accommodation on campus**.
 - Check-in: 01 June 2025 
@@ -19,7 +19,7 @@ Welcome to the ACM India Summer School 2025 on **AI for Social Good** at **IIT G
 
 ---
 
-## 💰 Fee Structure
+## Fee Structure
 
 | Component                  | Amount         |
 |---------------------------|----------------|
@@ -30,7 +30,7 @@ Welcome to the ACM India Summer School 2025 on **AI for Social Good** at **IIT G
 
 ---
 
-## 🧳 What to Bring
+## What to Bring
 
 - Government ID card (for hostel check-in)
 - Laptop with Python installed
@@ -43,7 +43,7 @@ Welcome to the ACM India Summer School 2025 on **AI for Social Good** at **IIT G
 
 ---
 
-## 🚆 Travel Guidance
+## Travel Guidance
 
 - Railway Stations: Depending on your train, you may be able to choose:
     - **Gandhinagar Capital (GNC)** 
@@ -53,14 +53,14 @@ Welcome to the ACM India Summer School 2025 on **AI for Social Good** at **IIT G
 - From Ahmedabad, take a cab or bus to **IIT Gandhinagar, Palaj Campus**
 
 
-> 🗺️ IIT Gandhinagar Address:  
+> **IIT Gandhinagar Address:**  
 > Indian Institute of Technology Gandhinagar,  
 > Palaj, Gandhinagar – 382055, Gujarat
 
 ---
 
 
-## 🙋 FAQs
+## FAQs
 
 **Q. Can I arrive a day earlier or stay a day later?**  
 No, accommodation is only available from **01 June to 14 June**.
@@ -78,7 +78,7 @@ Please inform us in advance. We will do our best to accommodate your needs. We w
 
 ---
 
-## ✉️ Contact
+## Contact
 
 Feel free to reach out:
 

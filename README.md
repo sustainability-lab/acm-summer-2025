@@ -2,7 +2,7 @@
 
 Official website for the ACM India Summer School on AI for Social Good, hosted by IIT Gandhinagar.
 
-🌐 **Live Website:** https://sustainability-lab.github.io/acm-summer-2025/
+**Live Website:** https://sustainability-lab.github.io/acm-summer-2025/
 
 ## About
 
@@ -38,7 +38,7 @@ quarto preview
 
 **Sustainability Lab**  
 Indian Institute of Technology Gandhinagar  
-🌐 https://sustainability-lab.github.io/
+https://sustainability-lab.github.io/
 
 ## Contact
 
