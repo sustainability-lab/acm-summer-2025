@@ -119,9 +119,9 @@ title: ""
 
 | Time | Session | Speaker | Affiliation | Material |
 |------|---------|---------|-------------|----------|
-| 9:00 AM - 10:30 AM | **Remote Sensing / Ag** | Alok Talekar | Google Deepmind India | - |
+| 9:00 AM - 10:30 AM | **Remote Sensing / Ag** | Alok Talekar | Google Deepmind India | [Slides](slides/day8/future%20of%20food.pdf) |
 | 10:30 AM - 11:00 AM | *Break* | - | - | - |
-| 11:00 AM - 12:30 PM | **Remote Sensing / Energy <> Emissions monitoring** | Alok Talekar | Google Deepmind India | - |
+| 11:00 AM - 12:30 PM | **Remote Sensing / Energy <> Emissions monitoring** | Alok Talekar | Google Deepmind India | [Slides](slides/day8/ml%20for%20planet.pdf) |
 | 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
 | 2:00 PM - 3:30 PM | **Data, Disaggregation, Deployment: A Decade in Energy Analytics** | Prof. Nipun Batra | IIT Gandhinagar | - |
 | 3:30 PM - 4:00 PM | *Break* | - | - | - |
@@ -135,7 +135,7 @@ title: ""
 | 10:30 AM - 11:00 AM | *Break* | - | - | - |
 | 11:00 AM - 12:30 PM | **Adversarial Attack on Fairness in FL** | Prof. Manisha Padala | IIT Gandhinagar | - |
 | 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
-| 2:00 PM - 3:30 PM | **Personalized Treatment Planning Models for Cancer** | Dr. Vaibhav Rajan | Google DeepMind | - |
+| 2:00 PM - 3:30 PM | **Personalized Treatment Planning Models for Cancer** | Dr. Vaibhav Rajan | Google DeepMind | [Slides](slides/day9/Day%201.pdf) |
 | 3:30 PM - 4:00 PM | *Break* | - | - | - |
 | 4:00 PM - 5:30 PM | **SSL Vision** | Rishabh Mondal | - | - |
 
@@ -146,7 +146,7 @@ title: ""
 |------|---------|---------|-------------|----------|
 | 9:00 AM - 10:30 AM | **Causal Models** | Prof. Tavpritesh Sethi | IIIT-Delhi | - |
 | 10:30 AM - 11:00 AM | *Break* | - | - | - |
-| 11:00 AM - 12:30 PM | **Personalized Treatment Planning Models for Cancer** | Dr. Vaibhav Rajan | Google DeepMind | - |
+| 11:00 AM - 12:30 PM | **Personalized Treatment Planning Models for Cancer** | Dr. Vaibhav Rajan | Google DeepMind | [Slides](slides/day9/Day%202.pdf) |
 | 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
 | 2:00 PM - 3:30 PM | **Graph neural networks** | Prof. Sayan Ranu | IIT Delhi | - |
 | 3:30 PM - 4:00 PM | *Break* | - | - | - |
@@ -171,9 +171,9 @@ title: ""
 |------|---------|---------|-------------|----------|
 | 9:00 AM - 10:30 AM | **Keynote** | Dr. Manish Gupta | Google DeepMind | - |
 | 10:30 AM - 11:00 AM | *Break* | - | - | - |
-| 11:00 AM - 12:30 PM | **TBD** | Dr. Mohit Jain | Microsoft Research India | - |
+| 11:00 AM - 12:30 PM | **TBD** | Dr. Mohit Jain | Microsoft Research India | [Slides](slides/day11/SmartKC-PastPresentFuture-IITG.pdf) |
 | 12:30 PM - 2:00 PM | *Lunch Break* | - | - | - |
-| 2:00 PM - 3:30 PM | **TBD** | Dr. Mohit Jain | Microsoft Research India | - |
+| 2:00 PM - 3:30 PM | **TBD** | Dr. Mohit Jain | Microsoft Research India | [Slides](slides/day11/ExpertBot-IITG.pdf) |
 | 3:30 PM - 4:00 PM | *Break* | - | - | - |
 | 4:00 PM - 5:30 PM | **Convocation and Certificate Distribution / Feedback Session** | - | - | - |
 
